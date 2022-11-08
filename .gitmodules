@@ -1,0 +1,6 @@
+[submodule "poc-digital-streaming-be"]
+	path = poc-digital-streaming-be
+	url = git@github.com:darrellbacarro/poc-digital-streaming-be.git
+[submodule "poc-digital-streaming-fe"]
+	path = poc-digital-streaming-fe
+	url = git@github.com:darrellbacarro/poc-digital-streaming-fe.git
