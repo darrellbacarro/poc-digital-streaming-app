@@ -1,5 +1,6 @@
 <h1>POC Digital Streaming App</h1>
 <hr><p>Digital Streaming App</p><h2>General Information</h2>
+<p><img src="https://res.cloudinary.com/dlevukpcc/image/upload/v1667901042/Screenshot_2022-11-08_at_5.43.07_PM_sq9afe.png" alt=""></p>
 <hr><ul>
 <li>This app allows users to view information about any movie, save movies as their favorite, view the actors and actresses casted in a specific movie, and more.</li>
 </ul><ul>
@@ -47,5 +48,5 @@
 </ul><ul>
 <li>Write movie reviews</li>
 </ul><h2>Screenshots</h2>
-<hr><p><img src="https://res.cloudinary.com/dlevukpcc/image/upload/v1667901042/Screenshot_2022-11-08_at_5.43.07_PM_sq9afe.png" alt=""></p><p><img src="https://res.cloudinary.com/dlevukpcc/image/upload/v1667901042/Screenshot_2022-11-08_at_5.46.05_PM_bthwhu.png" alt=""></p><p><img src="https://res.cloudinary.com/dlevukpcc/image/upload/v1667901042/Screenshot_2022-11-08_at_5.45.26_PM_moqjch.png" alt=""></p><h2>Contact</h2>
+<hr><p><img src="https://res.cloudinary.com/dlevukpcc/image/upload/v1667901042/Screenshot_2022-11-08_at_5.46.05_PM_bthwhu.png" alt=""></p><p><img src="https://res.cloudinary.com/dlevukpcc/image/upload/v1667901042/Screenshot_2022-11-08_at_5.45.26_PM_moqjch.png" alt=""></p><h2>Contact</h2>
 <hr><p><span style="margin-right: 30px;"></span><a href="https://github.com/darrellbacarro"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
