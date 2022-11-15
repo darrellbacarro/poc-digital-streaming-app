@@ -1,9 +1,9 @@
-<center><img src="https://res.cloudinary.com/dlevukpcc/image/upload/v1668517160/POC%20Screenshots/logo_bxzzzc.png" width="120" /></center>
-<h1 align=center>Digital Streaming System</h1>
+<p align="center"><img src="https://res.cloudinary.com/dlevukpcc/image/upload/v1668517160/POC%20Screenshots/logo_bxzzzc.png" width="120" /></p>
+<h1 align="center">Digital Streaming System</h1>
 
 > "Without the Streaming"
 
-![System Screenshot](https://res.cloudinary.com/dlevukpcc/image/upload/v1668514175/POC%20Screenshots/Screenshot_2022-11-15_at_8.09.23_PM_ps3lnw.png)
+<img src="/images/app-home.png" />
 
 This lets guests and regular users to browse and search for their favorite movies and actors. The system also has the content management functionality available to administrators.
 
